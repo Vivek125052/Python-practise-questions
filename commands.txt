@@ -1,0 +1,16 @@
+ 1141  clear
+ 1142  /usr/local/bin/python3.11 /Users/vivek/Documents/github-for-devops-workshop/check-even-odd.py
+ 1143  /usr/local/bin/python3.11 /Users/vivek/Documents/github-for-devops-workshop/check-even-odd.py
+ 1144  git add check-even-odd.py
+ 1145  git commit -m "even odd checker"
+ 1146  git push origin master 
+ 1147  git status 
+ 1148  git status 
+ 1149  clear
+ 1150  /usr/local/bin/python3.11 /Users/vivek/Documents/github-for-devops-workshop/check-leap-year.py
+ 1151  /usr/local/bin/python3.11 /Users/vivek/Documents/github-for-devops-workshop/check-leap-year.py
+ 1152  git add check-leap-year.py
+ 1153  git commit -m "leap year checker"
+ 1154  git push origin master 
+ 1155  git status 
+ 1156  clear
