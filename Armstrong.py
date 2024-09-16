@@ -1,5 +1,4 @@
 number = int(input("Enter the number you want to check if the number is armstrong or not: "))
-
 sum = 0
 temp = number
 
