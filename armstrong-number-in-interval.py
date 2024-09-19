@@ -13,7 +13,7 @@ for number in range(lower , upper+1):
         temp //=10
 
     if sum == number:
-        print(f"The armStorng number betweer{lower} and {upper} limit is {number}")
+        print(f"ArmStorng numbers between {lower} and {upper} limit is {number}")
     else:
         ("No armstrong number")
 
