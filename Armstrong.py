@@ -4,9 +4,11 @@ temp = number
 
 while temp >0:
     digit = temp%10
-    cube = digit**3
+    order = len(str(number))
+    cube = digit**order
     sum = sum + cube
     temp //=10
+    
 
 if sum == number:
     print("Yes it is armstrong number")
